@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello World</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="copyright">©Rick Hutten 10189939</string>
+
+</resources>
